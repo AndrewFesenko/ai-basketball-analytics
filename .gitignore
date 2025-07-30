@@ -4,3 +4,6 @@ venv/
 .DS_Store
 *.ipynb
 models/*.pt
+*.pt
+*.avi
+*.pkl
